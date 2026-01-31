@@ -7,7 +7,7 @@ export { SectionId };
 
 export const PROFILE = {
   name: "your name",
-  primaryTitle: "Founder – ResolvingInc",
+  primaryTitle: "Founder – yourcompany",
   secondaryTitles: [
     "Full Stack Developer ",],
   bio: "I create high-performance web and mobile applications .",
@@ -118,7 +118,7 @@ export const EXPERIENCE: Experience[] =
   {
     id: '1',
     role: ' your role',
-    company: 'your company.',
+    company: 'the company you worked for.',
     period: '2020 - Present',
     description: [
       'yours.',
@@ -131,7 +131,7 @@ export const EXPERIENCE: Experience[] =
  {
     id: '2',
     role: 'your role',
-    company: 'your company.',
+    company: 'the company you worked for.',
     period: '2020 - 2022',
     description: [
       'yours',
@@ -143,7 +143,7 @@ export const EXPERIENCE: Experience[] =
   
     id: '3',
     role: 'your role',
-    company: 'your company.',
+    company: 'the company you worked for.',
     period: '2021 - Present',
     description: [
       'yours',

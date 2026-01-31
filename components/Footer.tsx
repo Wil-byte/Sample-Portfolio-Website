@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           Designed & Built by {PROFILE.name}
         </p>
         <p className="text-gray-500 dark:text-slate-600 text-xs mt-2 font-mono">
-          Powered by ResolvingInc.
+          Powered by Jst_wil Inc.
         </p>
       </div>
     </footer>
